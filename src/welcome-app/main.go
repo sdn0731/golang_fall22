@@ -66,7 +66,7 @@ func main() {
 	// Create ContactInfo Nested Object
 	nestedContact := ContactInfo{
 		Email: "taylorswift@umgstores.com",
-		Phone: "2301301978",
+		Phone: "2301301989",
 	}
 
 	// Create Address Nested Object
